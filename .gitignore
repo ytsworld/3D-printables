@@ -1,3 +1,5 @@
 *.3mf
 *.FCStd1
 *.gcode
+
+training/
