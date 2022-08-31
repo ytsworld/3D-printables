@@ -3,3 +3,4 @@
 *.gcode
 
 training/
+_training/
