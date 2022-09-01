@@ -14,9 +14,9 @@ printed parts from [this design](https://www.thingiverse.com/thing:3085211).
 As one of the tables act as a base and it's a bit unsteady when the printer is working hard,
 I added an angle piece to increase rigidity of the base.
 
-[Angle piece for lack table](./angle_piece_for_lack_table.stl)
-
 ![Angle piece for lack table](./angle_piece_for_lack_table.jpg)
+
+![Angle piece for lack table](./angle_piece_for_lack_table.stl)
 
 ## Connector for Homematic IP temperature and humidity sensor
 
