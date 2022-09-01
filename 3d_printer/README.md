@@ -16,7 +16,7 @@ I added an angle piece to increase rigidity of the base.
 
 ![Angle piece for lack table](./angle_piece_for_lack_table.jpg)
 
-![Angle piece for lack table](./angle_piece_for_lack_table.stl)
+[Angle piece for lack table](./angle_piece_for_lack_table.stl)
 
 ## Connector for Homematic IP temperature and humidity sensor
 
