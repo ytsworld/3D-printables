@@ -20,8 +20,7 @@ I added an angle piece to increase rigidity of the base.
 
 ## Connector for Homematic IP temperature and humidity sensor
 
-As for some prints the environment temperature matters, I thought its a good idea to add a temperature sensor
-inside the enclosure.
+As for some prints the environment temperature matters, I thought its a good idea to add a temperature sensor inside the enclosure.
 
 ![Holder for sensor](./holder_homeatic_ip_temperature_sensor.jpg)
 
